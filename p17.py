@@ -1,3 +1,4 @@
+#sum od sqrs of the input
 k=int(input())
 s=0
 while k>0:
