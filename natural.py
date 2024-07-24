@@ -1,3 +1,4 @@
+''' print the numbers , append them to a new list and sum of numbers (1to 100)'''
 s=0
 c=""
 list=[]
