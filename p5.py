@@ -1,3 +1,4 @@
+#perfect number
 n=int(input())
 o=n
 c=0
