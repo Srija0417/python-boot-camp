@@ -1,6 +1,8 @@
-#sum of 1ST n natural numbers
-n=int(input())
-s=0
-for e in range(1,n+1):
-    s=s+e 
-print(s)    
+a=int(input("1st number: "))
+num1=a
+b=int(input("2nd number: "))
+num2=b
+while b!=0:
+    a,b=b,a%b
+gcd=a    
+print("lcm of given numbers is :",int(num1*num2/gcd))  

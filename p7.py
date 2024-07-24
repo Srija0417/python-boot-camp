@@ -1,14 +1,14 @@
-#arithematic operations
-#total marks and average of it
-
-w=input()
-n=int(input("no.of subjects"))
-T=int(input("T"))
-E=int(input("E"))
-H=int(input("H"))
-SO=int(input("SO"))
-S=int(input("S"))
-M=int(input("M"))
-s=T+E+H+SO+S+M
-avg=s/n
-print("your name is:",w,"no.of subjects=",n,"total marks=",s,"average=",avg)
+a=int(input())
+r=a**0.5
+c=0
+if a==1:
+    print("not a prime number")
+for e in range(2,int(r+1)):
+    if (a%2==0):
+        c=c+1
+        break
+if c==0:
+    print("prime number")    
+else:
+    print("not prime")    
+    
