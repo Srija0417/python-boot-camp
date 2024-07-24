@@ -1,3 +1,4 @@
+#perimeter and area of a traingale
 a=int(input())
 b=int(input())
 c=int(input())
