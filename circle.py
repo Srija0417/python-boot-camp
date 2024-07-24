@@ -1,3 +1,4 @@
+# area and perimeter of cirlce 
 r=int(input())
 pi=3.14
 print("are of cicle: "+str(pi*r*r))
