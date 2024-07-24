@@ -1,3 +1,6 @@
+#arithematic operations
+#total marks and average of it
+
 w=input()
 n=int(input("no.of subjects"))
 T=int(input("T"))
