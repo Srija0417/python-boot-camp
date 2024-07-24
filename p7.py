@@ -1,3 +1,4 @@
+#check given number is prime number or not
 a=int(input())
 r=a**0.5
 c=0
