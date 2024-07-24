@@ -1,3 +1,4 @@
+# list out prime numbers from start number to stop number
 a=int(input("star: "))
 b=int(input("stop: "))
 for e in range(a,b+1):
