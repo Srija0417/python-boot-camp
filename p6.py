@@ -1,3 +1,4 @@
+#LCM of 2 numbers
 a=int(input("1st number: "))
 num1=a
 b=int(input("2nd number: "))
