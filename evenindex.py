@@ -1,3 +1,5 @@
+#sum and average of even elements in a list
+
 n=list(map(int,input().split(" ")))
 c=0
 d=0
